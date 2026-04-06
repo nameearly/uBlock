@@ -379,7 +379,7 @@ export const FilteringContext = class {
     }
 
     setTabDomain(a) {
-        this.docDomain = a;
+        this.tabDomain = a;
         return this;
     }
 
